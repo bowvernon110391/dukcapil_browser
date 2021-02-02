@@ -41,9 +41,9 @@
         </v-menu>
       </v-col>
       <!-- NIP -->
-      <v-col cols="12" md="5">
+      <!-- <v-col cols="12" md="5">
         <v-text-field type="text" label="NIP" clearable v-model.lazy.trim="value.nip"/>
-      </v-col>
+      </v-col> -->
     </v-row>
     <v-row>
         <!-- KTP -->

@@ -16,7 +16,7 @@ export default new Vuex.Store({
     searchParams: {
       nama: '',
       namaIbu: '',
-      nip: '',
+      nip: 'null',
       noKK: '',
       nik: '',
       tempatLahir: '',
